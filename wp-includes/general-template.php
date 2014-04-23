@@ -280,9 +280,9 @@ function get_search_form( $echo = true ) {
  * @return string|null String when retrieving, null when displaying.
  */
 function wp_loginout($redirect = '', $echo = true) {
-	if ( ! is_user_logged_in() )
-		$link = '<a href="' . esc_url( wp_login_url($redirect) ) . '">' . __('Log in') . '</a>';
-	else
+	if ( is_user_logged_in() )
+		//$link = '<a href="' . esc_url( wp_login_url($redirect) ) . '">' . __('Log in') . '</a>';*/
+//	else
 		$link = '<a href="' . esc_url( wp_logout_url($redirect) ) . '">' . __('Log out') . '</a>';
 
 	if ( $echo ) {
