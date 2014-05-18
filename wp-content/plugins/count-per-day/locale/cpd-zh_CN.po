@@ -1,0 +1,1085 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Count Per Day v3.00\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-02 02:25-0500\n"
+"PO-Revision-Date: 2013-11-02 02:49-0500\n"
+"Last-Translator: MopBear <syt1100@gmail.com>\n"
+"Language-Team: MopBear <syt1100@gmail.com>\n"
+"Language: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ cpd
+#: counter-core.php:256
+#, php-format
+msgid "\"Count per Day\" updated to version %s."
+msgstr "\"Count per Day\" 最新版本为 %s。"
+
+# @ default
+#: counter-core.php:645 counter-options.php:386 counter-options.php:712
+msgid "Settings"
+msgstr "设定"
+
+# @ cpd
+#: counter-core.php:745
+#, php-format
+msgid "Time for Count per Day: <code>%s</code>."
+msgstr "Count per Day的时间: <code>%s</code>."
+
+# @ cpd
+#: counter-core.php:746
+msgid "Bug? Problem? Question? Hint? Praise?"
+msgstr "BUG？出错？疑问？提示？评价？"
+
+# @ cpd
+#: counter-core.php:747
+#, php-format
+msgid "Write a comment on the <a href=\"%s\">plugin page</a>."
+msgstr "填写你的评论在<a href=\"%s\">plugin page</a>。"
+
+# @ default
+#: counter-core.php:748
+msgid "License"
+msgstr "许可"
+
+# @ cpd
+#: counter-core.php:780 counter.php:218 counter.php:1161 counter.php:1355
+msgid "Total visitors"
+msgstr "总访问数"
+
+# @ cpd
+#: counter-core.php:781
+msgid "Visitors online"
+msgstr "在线访问者数"
+
+# @ cpd
+#: counter-core.php:782 counter.php:1359
+msgid "Visitors per month"
+msgstr "每月访问者数"
+
+# @ cpd
+#: counter-core.php:783 counter.php:1354
+msgid "Reads per month"
+msgstr "每月阅读量"
+
+# @ cpd
+#: counter-core.php:784 counter-options.php:806
+msgid "Visitors per post"
+msgstr "每篇文章的访问者数"
+
+# @ cpd
+#: counter-core.php:785
+msgid "Latest Counts"
+msgstr "最新统计"
+
+# @ cpd
+#: counter-core.php:786 counter.php:224 counter.php:323 counter.php:1163
+#: counter.php:1360 userperspan.php:46
+msgid "Visitors per day"
+msgstr "每日访问者数"
+
+# @ default
+# @ cpd
+#: counter-core.php:787 counter-options.php:836 counter-options.php:840
+msgid "Search strings"
+msgstr "搜索字符串"
+
+# @ default
+#: counter-core.php:788
+msgid "Plugin"
+msgstr "插件"
+
+# @ cpd
+#: counter-core.php:791 counter-options.php:832
+msgid "Browsers"
+msgstr "浏览器"
+
+# @ cpd
+#: counter-core.php:792
+msgid "Referrer"
+msgstr "反向链接"
+
+# @ cpd
+#: counter-core.php:796
+msgid "Reads per Country"
+msgstr "每个国家阅读数"
+
+# @ cpd
+#: counter-core.php:797
+msgid "Visitors per Country"
+msgstr "每个国家访问者数"
+
+# @ cpd
+#: counter-core.php:812 counter.php:1277
+msgid "Statistics"
+msgstr "统计"
+
+# @ cpd
+#: counter-core.php:992
+msgid "Backup failed! Cannot open file"
+msgstr "备份失败！无法打开文件"
+
+# @ cpd
+#: counter-core.php:1019
+#, php-format
+msgid "Backup of %s entries in progress. Every point complies %s entries."
+msgstr "%s 的记录备份正在处理中。 关于%s 的记录审查完毕。"
+
+# @ cpd
+#: counter-core.php:1106
+msgid "Your can download the backup files here and now."
+msgstr "你现在可以在此处下载你的备份文档。"
+
+# @ cpd
+#: counter-core.php:1110 counter-core.php:1118
+#, php-format
+msgid "Backup of counter table saved in %s."
+msgstr "计数器表的备份文档保存于 %s。"
+
+# @ cpd
+#: counter-core.php:1112 counter-core.php:1120
+#, php-format
+msgid "Backup of counter options and collection saved in %s."
+msgstr "计数选项和收集的备份数据保存于 %s。"
+
+# @ cpd
+#: counter-core.php:1176
+msgid "Error while reading backup file!"
+msgstr "读取备份文件错误！"
+
+# @ cpd
+#: counter-core.php:1180
+#, php-format
+msgid "The backup was added to counter table %s."
+msgstr "新的备份已被添加于计数器 %s 。"
+
+# @ cpd
+#: counter-core.php:1182
+#, php-format
+msgid "The counter table %s was restored from backup."
+msgstr "计数器表 %s 已经被重置。"
+
+# @ cpd
+#: counter-core.php:1199
+msgid "Options restored from backup."
+msgstr "已从备份中恢复选项。"
+
+# @ cpd
+#: counter-core.php:1456 counter-options.php:761 counter.php:217
+#: counter.php:969
+msgid "Reads"
+msgstr "阅读总数"
+
+# @ cpd
+#: counter-options.php:52
+msgid "Options updated"
+msgstr "选项已更新"
+
+# 此处不知道如何翻译@ cpd
+#: counter-options.php:63
+#, php-format
+msgid "Countries updated. <b>%s</b> entries in %s without country left"
+msgstr "访问者国家已更新。%s 上的 <b>%s</b> 已无未被分类的其他国家访问者。"
+
+# @ cpd
+#: counter-options.php:66
+msgid "update next"
+msgstr "下一次更新"
+
+# @ cpd
+#: counter-options.php:106
+#, php-format
+msgid "Mass Bots cleaned. %s counts deleted."
+msgstr "恶意访问机器人已被清理。 %s 访问被删除。"
+
+# @ cpd
+#: counter-options.php:113
+#, php-format
+msgid "Database cleaned. %s rows deleted."
+msgstr "数据库已被清理。 %s 行被删除。"
+
+# @ cpd
+#: counter-options.php:123
+msgid "Counter reseted."
+msgstr "计数器被重置。"
+
+# @ cpd
+#: counter-options.php:128 counter-options.php:691
+msgid "UNINSTALL Count per Day"
+msgstr "删除 Count per Day "
+
+# @ cpd
+#: counter-options.php:133 counter-options.php:134 counter-options.php:135
+#, php-format
+msgid "Table %s deleted"
+msgstr "%s 表被删除"
+
+# @ cpd
+#: counter-options.php:136
+msgid "Options deleted"
+msgstr "选项被删除"
+
+# @ cpd
+#: counter-options.php:169
+msgid "Collection in progress..."
+msgstr "整理中..."
+
+# @ cpd
+#: counter-options.php:263
+msgid "Get Visitors per Post..."
+msgstr "正在获取每篇文章的访问者数…"
+
+# @ cpd
+#: counter-options.php:284
+msgid "Delete old data..."
+msgstr "删除旧数据…"
+
+# @ cpd
+#: counter-options.php:308
+#, php-format
+msgid ""
+"Counter entries until %s collected and counter table %s optimized (size "
+"before = %s &gt; size after = %s)."
+msgstr ""
+"直到%s 所整理的数据输入已被更新。计数器 %s 已被最优化 (最优化前 = %s &gt; 最"
+"优化后 = %s)。"
+
+# @ cpd
+#: counter-options.php:317
+msgid "Installation of \"Count per Day\" checked"
+msgstr "\"Count per Day\" 的安装检查完毕。"
+
+# @ cpd
+#: counter-options.php:332
+msgid "Old search strings deleted"
+msgstr "旧的搜索字符串已被删除"
+
+# @ cpd
+#: counter-options.php:362 counter-options.php:677
+msgid "Uninstall"
+msgstr "删除"
+
+# @ cpd
+#: counter-options.php:363
+msgid "Click here"
+msgstr "猛击这里"
+
+# @ cpd
+#: counter-options.php:363
+msgid "to finish the uninstall and to deactivate \"Count per Day\"."
+msgstr "完成删除并取消激活\"Count per Day\" "
+
+# @ default
+#: counter-options.php:385 counter-options.php:711
+msgid "Tools"
+msgstr "工具"
+
+# @ cpd
+#: counter-options.php:402 massbots.php:46
+msgid "Mass Bots"
+msgstr "恶意机器人"
+
+# @ cpd
+#: counter-options.php:406
+#, php-format
+msgid "Show all IPs with more than %s page views per day"
+msgstr "显示所有每日阅读超过 %s 阅读着的IP地址"
+
+# @ cpd
+#: counter-options.php:407 notes.php:84 userperspan.php:56
+msgid "show"
+msgstr "显示"
+
+# @ cpd
+#: counter-options.php:415
+msgid "IP"
+msgstr "IP"
+
+# @ cpd
+# @ default
+#: counter-options.php:416 notes.php:88
+msgid "Date"
+msgstr "日期"
+
+# @ cpd
+#: counter-options.php:417
+msgid "Client"
+msgstr "客户端"
+
+# @ cpd
+#: counter-options.php:418
+msgid "Views"
+msgstr "阅读数"
+
+# @ cpd
+#: counter-options.php:433 counter-options.php:449
+#, php-format
+msgid "Delete these %s counts"
+msgstr "删除 %s 计数"
+
+# @ cpd
+#: counter-options.php:461 counter-options.php:898
+msgid "Backup"
+msgstr "备份文件"
+
+# @ cpd
+#: counter-options.php:465
+#, php-format
+msgid ""
+"Create a backup of the counter table %s in your wp-content directory (if "
+"writable)."
+msgstr ""
+"创建一个关于计数器 %s 的备份并保存于你的wp-content目录下(如果可以被写入)。"
+
+# @ cpd
+#: counter-options.php:468
+msgid "Download only"
+msgstr "只可以被下载"
+
+# @ cpd
+#: counter-options.php:472
+msgid "Backup the database"
+msgstr "备份数据库"
+
+# @ cpd
+#: counter-options.php:500
+msgid "Settings and collections"
+msgstr "设定与收集"
+
+# @ cpd
+#: counter-options.php:505
+#, php-format
+msgid "Counter table %s"
+msgstr "计数器 %s"
+
+# @ cpd
+#: counter-options.php:512
+#, php-format
+msgid "Add data from the backup file %s to existing counter table?"
+msgstr "是否从备份文件添加一个数据 %s 至已存在的计数器中？"
+
+# @ cpd
+#: counter-options.php:512
+msgid "Add"
+msgstr "添加"
+
+# @ cpd
+#: counter-options.php:516
+#, php-format
+msgid "Restore data from the backup file %s ?"
+msgstr "是否从辈分文件中 %s 恢复数据？"
+
+# @ cpd
+#: counter-options.php:516
+msgid "Restore"
+msgstr "恢复"
+
+# @ cpd
+#: counter-options.php:518
+msgid "Delete"
+msgstr "删除"
+
+# @ cpd
+#: counter-options.php:519
+#, php-format
+msgid "Delete the backup file %s ?"
+msgstr "是否删除备份文件 %s ？"
+
+# @ cpd
+#: counter-options.php:525
+msgid "add backup to current counter table"
+msgstr "添加一个新的备份至现在的计数器"
+
+# @ cpd
+#: counter-options.php:526
+msgid "replace current counter table with with backup"
+msgstr "替换现在的计数器为备份文档"
+
+# @ cpd
+#: counter-options.php:527
+msgid "delete backup file"
+msgstr "删除备份文档"
+
+# @ cpd
+#: counter-options.php:538 counter-options.php:546
+msgid "Clean the database"
+msgstr "清理数据库"
+
+# @ cpd
+#: counter-options.php:541
+msgid ""
+"You can clean the counter table by delete the \"spam data\".<br />If you add "
+"new bots above the old \"spam data\" keeps in the database.<br />Here you "
+"can run the bot filter again and delete the visits of the bots."
+msgstr ""
+"你可以通过删除\"spam data\"来清理的计数器。<br />添加新的恶意机器人黑名单于旧"
+"的数据库\"spam data\"。<br />这里你可以运行恶意机器人过滤器并且删除这些恶意机"
+"器人的访问"
+
+# @ cpd
+#: counter-options.php:552
+#, php-format
+msgid "Delete search strings older than %s days."
+msgstr "%s 日以前的搜索字符串被删除"
+
+# @ cpd
+#: counter-options.php:554
+msgid "Delete search strings"
+msgstr "删除搜索字符串"
+
+# @ cpd
+#: counter-options.php:563 counter-options.php:595
+msgid "Collect old data"
+msgstr "收集旧数据"
+
+# @ cpd
+#: counter-options.php:568
+#, php-format
+msgid "Current size of your counter table %s is %s."
+msgstr "现在计数器 %s 的文件大小是 %s 。"
+
+# @ cpd
+#: counter-options.php:570
+msgid ""
+"You can collect old data and clean up the counter table.<br/>Reads and "
+"visitors will be saved per month, per country and per post.<br/>Clients and "
+"referrers will deleted."
+msgstr ""
+"你可以收集旧数据并清理计数器。<br/>阅读量和访问者会按月份，国家，文章的分类被"
+"保存。<br/>客户端与反向链接会被删除。"
+
+# @ cpd
+#: counter-options.php:575
+#, php-format
+msgid "Currently your collection contains data until %s."
+msgstr "直到%s 的数据已被包含在整理中。"
+
+# @ cpd
+#: counter-options.php:579
+msgid "Normally new data will be added to the collection."
+msgstr "一般新的数据会被添加于收集中并加入肯德基豪华午餐XD。"
+
+# @ cpd
+#: counter-options.php:585
+msgid ""
+"Delete old collection and create a new one which contains only the data "
+"currently in counter table."
+msgstr "删除旧的数据收集并创建一个只包含现有数据的计数器。"
+
+# @ cpd
+#: counter-options.php:586
+#, php-format
+msgid "All collected data until %s will deleted."
+msgstr "直到%s 所有被收集的数据已经被删除 。"
+
+# @ cpd
+#: counter-options.php:591
+#, php-format
+msgid "Keep entries of last %s full months + current month in counter table."
+msgstr "保留上一个和这一个月 %s 计数器中的所有数据。"
+
+# @ cpd
+#: counter-options.php:608
+msgid "GeoIP - Countries"
+msgstr "GeoIP - 国家统计"
+
+# @ cpd
+#: counter-options.php:611
+msgid ""
+"You can get the country data for all entries in database by checking the IP "
+"adress against the GeoIP database. This can take a while!"
+msgstr ""
+"你可以通过检查数据库中所有来访者的 IP地址来收集那些你可能认为与 GeoIP 数据库"
+"不符的国家信息。这将需要一段时间。"
+
+# @ cpd
+#: counter-options.php:617
+msgid "Update old counter data"
+msgstr "更新旧的计数器信息"
+
+# @ cpd
+#: counter-options.php:624
+msgid "Download a new version of GeoIP.dat file."
+msgstr "下载新版本的 GeoIP.dat文件。"
+
+# @ cpd
+#: counter-options.php:629
+msgid "Update GeoIP database"
+msgstr "GeoIP 数据库更新"
+
+# @ cpd
+#: counter-options.php:634
+msgid "More informations about GeoIP"
+msgstr "GeoIP的详细信息"
+
+# @ cpd
+#: counter-options.php:642
+msgid "ReActivation"
+msgstr "再次激活"
+
+# @ cpd
+#: counter-options.php:645
+msgid ""
+"Here you can start the installation functions manually.<br/>Same as "
+"deactivate and reactivate the plugin."
+msgstr ""
+"在这里你可以手动进行安装功能。<br/>同时你也可以进行激活与取消激活插件。"
+
+# @ cpd
+#: counter-options.php:650
+msgid "ReActivate the plugin"
+msgstr "重新激活插件"
+
+# @ cpd
+#: counter-options.php:658 counter-options.php:668
+msgid "Reset the counter"
+msgstr "重置计数器"
+
+# @ cpd
+#: counter-options.php:661
+msgid ""
+"You can reset the counter by empty the table. ALL TO 0!<br />Make a backup "
+"if you need the current data!"
+msgstr ""
+"你可以通过清除表格来重置计数。全部都变成 998 哦！其实是 0 啦！<br />如果你想"
+"保存现有数据请进行备份。"
+
+# @ cpd
+#: counter-options.php:667 counter-options.php:690
+msgid "Yes"
+msgstr "是"
+
+# @ cpd
+#: counter-options.php:680
+msgid ""
+"If \"Count per Day\" only disabled the tables in the database will be "
+"preserved."
+msgstr "\"Count per Day\"如果只是在数据库表格中被禁用,它将任然发挥功效。"
+
+# @ cpd
+#: counter-options.php:681
+msgid "Here you can delete the tables and disable \"Count per Day\"."
+msgstr "在这里你可以删除计数表格并取消使用\"Count per Day\"。"
+
+# @ cpd
+#: counter-options.php:684
+msgid "WARNING"
+msgstr "警告"
+
+# @ cpd
+#: counter-options.php:685
+msgid "These tables (with ALL counter data) will be deleted."
+msgstr "这些表格(所有的计数数据)将被删除。"
+
+# @ cpd
+#: counter-options.php:687
+msgid "If \"Count per Day\" re-installed, the counter starts at 0."
+msgstr "如果重新安装\"Count per Day\"，计数器将会从0开始重新计数。"
+
+# @ cpd
+#: counter-options.php:691
+msgid "You are sure to disable Count per Day and delete all data?"
+msgstr "你确定需要停止使用Count per Day并删除所有数据么？"
+
+# @ cpd
+#: counter-options.php:699
+msgid "Support"
+msgstr "技术支持"
+
+# @ cpd
+#: counter-options.php:720
+msgid "Counter"
+msgstr "计数器"
+
+# @ cpd
+#: counter-options.php:724
+msgid "Online time"
+msgstr "在线时间"
+
+# @ cpd
+#: counter-options.php:725
+msgid ""
+"Seconds for online counter. Used for \"Visitors online\" on dashboard page."
+msgstr "统计在线人数的秒数。  在\"在线访问者数\"仪表盘里使用。"
+
+# @ cpd
+#: counter-options.php:728
+msgid "Logged on Users"
+msgstr "已登陆的用户"
+
+# @ cpd
+#: counter-options.php:730
+msgid "count too"
+msgstr "同样被计数"
+
+# @ cpd
+#: counter-options.php:731
+msgid "until User Level"
+msgstr "用户级"
+
+# @ cpd
+#: counter-options.php:742
+msgid "Auto counter"
+msgstr "自动计数器"
+
+# @ cpd
+#: counter-options.php:743
+msgid ""
+"Counts automatically single-posts and pages, no changes on template needed."
+msgstr "计数会根据每一篇文章和页面进行自动改变，不需要在模版上进行改变。"
+
+# @ cpd
+#: counter-options.php:746
+msgid "Bots to ignore"
+msgstr "恶意机器人黑名单"
+
+# @ cpd
+#: counter-options.php:750
+msgid "Anonymous IP"
+msgstr "匿名IP"
+
+# @ cpd
+#: counter-options.php:754
+msgid "Cache"
+msgstr "缓存"
+
+# @ cpd
+#: counter-options.php:755
+msgid "I use a cache plugin. Count these visits with ajax."
+msgstr "我使用一个缓存插件。通过ajax来对这些访问进行计数。"
+
+# @ cpd
+#: counter-options.php:758
+msgid "Clients and referrers"
+msgstr "客户端与反向链接"
+
+# @ cpd
+#: counter-options.php:761
+msgid ""
+"Save and show clients and referrers.<br />Needs a lot of space in the "
+"database but gives you more detailed informations of your visitors."
+msgstr ""
+"保存并显示客户端与反向链接。<br />在数据库中需要大量的空间并提供更多关于访问"
+"者的具体信息。"
+
+# @ cpd
+#: counter-options.php:763
+msgid "Save URL only, no query string."
+msgstr "仅保存URL，不保存查询字符串。"
+
+# @ default
+#: counter-options.php:771
+msgid "Dashboard"
+msgstr "仪表盘"
+
+# @ cpd
+#: counter-options.php:787
+msgid "Who can see it"
+msgstr "允许查看的人"
+
+# @ cpd
+#: counter-options.php:796
+msgid "custom"
+msgstr "自定义"
+
+# @ cpd
+#: counter-options.php:798
+msgid "and higher are allowed to see the statistics page."
+msgstr "或者更高级的授权才被允许查看统计页。"
+
+# @ cpd
+#: counter-options.php:800
+#, php-format
+msgid "Set the %s capability %s a user need:"
+msgstr "设定用户所需%s 权限 %s :"
+
+# @ cpd
+#: counter-options.php:807 counter-options.php:811
+msgid "How many posts do you want to see on dashboard page?"
+msgstr "你需要在仪表片上查看多少文章？"
+
+# @ cpd
+#: counter-options.php:810
+msgid "Latest Counts - Posts"
+msgstr "最新统计 - 文章"
+
+# @ cpd
+#: counter-options.php:814
+msgid "Latest Counts - Days"
+msgstr "最新统计 - 日期"
+
+# @ cpd
+#: counter-options.php:815 counter-options.php:819 counter-options.php:841
+msgid "How many days do you want look back?"
+msgstr "你需要查看多少天以前的记录？"
+
+# @ cpd
+#: counter-options.php:818
+msgid "Chart - Days"
+msgstr "图表 - 日期"
+
+# @ cpd
+#: counter-options.php:822
+msgid "Chart - Height"
+msgstr "图表 - 高度"
+
+# @ cpd
+#: counter-options.php:823
+msgid "Height of the biggest bar"
+msgstr "最高统计条的高度"
+
+# @ cpd
+#: counter-options.php:827
+msgid "Countries"
+msgstr "国家"
+
+# @ cpd
+#: counter-options.php:828
+msgid "How many countries do you want to see on dashboard page?"
+msgstr "你需要在仪表盘上查看多少国家？"
+
+# @ cpd
+#: counter-options.php:833
+msgid "Substring of the user agent, separated by comma"
+msgstr "用户的子字符串，通过逗号来进行分开"
+
+# @ cpd
+#: counter-options.php:836
+msgid "Referrers - Entries"
+msgstr "反向链接 - 输入"
+
+# @ cpd
+#: counter-options.php:837
+msgid "How many referrers do you want to see on dashboard page?"
+msgstr "你需要在仪表盘上查看多少反向链接？"
+
+# @ cpd
+#: counter-options.php:840
+msgid "Referrers - Days"
+msgstr "反向链接 - 日期"
+
+# @ cpd
+#: counter-options.php:844
+msgid "Local URLs"
+msgstr "本地 URLs"
+
+# @ cpd
+#: counter-options.php:845
+msgid "Show local referrers too."
+msgstr "同样显示本地反向链接"
+
+# @ default
+#: counter-options.php:852
+msgid "Posts"
+msgstr "文章"
+
+# @ default
+#: counter-options.php:852
+msgid "Pages"
+msgstr "页面"
+
+# @ cpd
+#: counter-options.php:855
+msgid "Show in lists"
+msgstr "列表形式表示"
+
+# @ cpd
+#: counter-options.php:856
+msgid "Show \"Reads per Post\" in a new column in post management views."
+msgstr "在查看文章管理中添加并显示新栏目\"每篇文章的阅读总数\"。"
+
+# @ cpd
+#: counter-options.php:863
+msgid "Start Values"
+msgstr "开始值"
+
+# @ cpd
+#: counter-options.php:867
+msgid "Here you can change the date of first count and add a start count."
+msgstr "在这里更改你的起始日期并且添加一个其实数值。"
+
+# @ cpd
+#: counter-options.php:871
+msgid "Start date"
+msgstr "开始日期"
+
+# @ cpd
+#: counter-options.php:872
+msgid "Your old Counter starts at?"
+msgstr "你原计数器开始于何日？"
+
+# @ cpd
+#: counter-options.php:875 counter-options.php:879
+msgid "Start count"
+msgstr "开始计数"
+
+# @ cpd
+#: counter-options.php:876
+msgid "Add this value to \"Total visitors\"."
+msgstr "添加这个值到 \"总访问数\"。"
+
+# @ cpd
+#: counter-options.php:880
+msgid "Add this value to \"Total reads\"."
+msgstr "添加这个值到 \"总阅览数\"。"
+
+# @ cpd
+#: counter-options.php:887
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+# @ cpd
+#: counter-options.php:890
+msgid "NO Stylesheet in Frontend"
+msgstr "不要在 fronttend 载入stylesheet。"
+
+# @ cpd
+#: counter-options.php:891
+msgid "Do not load the stylesheet \"counter.css\" in frontend."
+msgstr "不要在 fronttend 载入stylesheet \"counter.css\"。"
+
+# @ cpd
+#: counter-options.php:901
+msgid "Entries per pass"
+msgstr "每次许可的记录次数"
+
+# @ cpd
+#: counter-options.php:904
+msgid "How many entries should be saved per pass? Default: 10000"
+msgstr "你需要在每一次许可保存多少次记录？ 预设值: 10000"
+
+# @ cpd
+#: counter-options.php:909
+msgid ""
+"If your PHP memory limit less then 50 MB and you get a white page or error "
+"messages try a smaller value."
+msgstr ""
+"如果你的PHP的存储上限小于 50 MB，在你产生空白页面或者错误信息的时候尝试更小的"
+"值。"
+
+# @ cpd
+#: counter-options.php:917
+msgid "Debug mode"
+msgstr "调试模式"
+
+# @ cpd
+#: counter-options.php:919
+msgid "Show debug informations at the bottom of all pages."
+msgstr "在所有页面的下方显示调试功能。"
+
+# @ cpd
+#: counter-options.php:924
+msgid "Update options"
+msgstr "更新选项"
+
+# @ cpd
+#: counter.php:213 counter.php:1350
+msgid "Total reads"
+msgstr "总阅览数"
+
+# @ cpd
+#: counter.php:214 counter.php:1351
+msgid "Reads today"
+msgstr "今天阅读数量"
+
+# @ cpd
+#: counter.php:215 counter.php:1352
+msgid "Reads yesterday"
+msgstr "昨天阅读数量"
+
+# @ cpd
+#: counter.php:216 counter.php:1353
+msgid "Reads last week"
+msgstr "上周阅读数量"
+
+# @ cpd
+#: counter.php:219 counter.php:1361
+msgid "Visitors currently online"
+msgstr "现在在线的访问者数"
+
+# @ cpd
+#: counter.php:220 counter.php:1356
+msgid "Visitors today"
+msgstr "今天访问者数"
+
+# @ cpd
+#: counter.php:221 counter.php:1357
+msgid "Visitors yesterday"
+msgstr "昨日访问者数"
+
+# @ cpd
+#: counter.php:222 counter.php:1358
+msgid "Visitors last week"
+msgstr "上周访问者数"
+
+# @ cpd
+#: counter.php:223 counter.php:993
+msgid "Visitors"
+msgstr "访问者数"
+
+# @ cpd
+#: counter.php:225 counter.php:919 counter.php:1362
+msgid "Counter starts on"
+msgstr "计数起始于"
+
+# @ cpd
+#: counter.php:226 counter.php:227
+msgid "Most visited day"
+msgstr "最近被访问的日期"
+
+# @ cpd
+#: counter.php:322
+msgid "Reads per day"
+msgstr "每日阅读总数"
+
+# @ cpd
+#: counter.php:413 counter.php:1192
+msgid "Map"
+msgstr "地图"
+
+# @ cpd
+#: counter.php:751
+#, php-format
+msgid "The %s most visited posts in last %s days:"
+msgstr "访问最多的文章 %s 篇 (过去 %s 天内)"
+
+# @ default
+#: counter.php:868
+msgid "Show"
+msgstr "显示"
+
+# @ cpd
+#: counter.php:870 notes.php:55 notes.php:89
+msgid "Notes"
+msgstr "标注"
+
+# @ cpd
+#: counter.php:908
+msgid "Other"
+msgstr "其他"
+
+# @ cpd
+#: counter.php:939
+#, php-format
+msgid "The %s referrers in last %s days:"
+msgstr " %s 反向链接 (过去 %s 天内)"
+
+# @ default
+#: counter.php:1080
+msgid "Edit Post"
+msgstr "编辑文章"
+
+# @ default
+#: counter.php:1089
+msgid "Category"
+msgstr "分类"
+
+# @ default
+#: counter.php:1092
+msgid "Tag"
+msgstr "Tag"
+
+# @ default
+#: counter.php:1095 massbots.php:63 userperspan.php:75
+msgid "Front page displays"
+msgstr "首页显示"
+
+# @ cpd
+#: counter.php:1136
+#, php-format
+msgid "The %s most searched strings:"
+msgstr "搜索最频繁的字符串 (过去 %s 天)"
+
+# @ cpd
+#: counter.php:1145
+#, php-format
+msgid "The search strings of the last %s days:"
+msgstr "最近 %s 天内的搜索字符串"
+
+# @ cpd
+#: counter.php:1349
+msgid "This post"
+msgstr "这篇文章"
+
+# @ default
+#: counter.php:1374
+msgid "Title"
+msgstr "标题"
+
+# @ cpd
+#: counter.php:1393
+msgid "drag and drop to sort"
+msgstr "拖放进行分类"
+
+# @ default
+#: notes.php:90
+msgid "Action"
+msgstr "动作"
+
+# @ cpd
+#: notes.php:95
+msgid "add"
+msgstr "添加"
+
+# @ cpd
+#: notes.php:111
+msgid "save"
+msgstr "保存"
+
+# @ cpd
+#: notes.php:112
+msgid "delete"
+msgstr "删除"
+
+# @ cpd
+#: notes.php:123
+msgid "edit"
+msgstr "编辑"
+
+# @ cpd
+#: userperspan.php:50
+msgid "Start"
+msgstr "开始"
+
+# @ cpd
+#: userperspan.php:52
+msgid "End"
+msgstr "完结"
+
+# @ cpd
+#: userperspan.php:54
+msgid "PostID"
+msgstr "文章ID"
+
+# @ cpd
+#: userperspan.php:62
+msgid "no data found"
+msgstr "查找不到数据"
+
+# @ cpd
+#: geoip/geoip.php:109
+msgid "Sorry, necessary functions (zlib) not installed or enabled in php.ini."
+msgstr "对不起， 必要的组件(zlib)没有在 php.ini 中安装或者启用。"
+
+# @ cpd
+#: geoip/geoip.php:134
+msgid "New GeoIP database installed."
+msgstr "新的GeoIP已经被安装。"
+
+# @ cpd
+#: geoip/geoip.php:136
+msgid ""
+"Sorry, an error occurred. Try again or check the access rights of directory "
+"\"geoip\" is 777."
+msgstr ""
+"对不起，产生错误。 请重新尝试或者检查链接目录\"geoip\" 的权限是否为 777。"
